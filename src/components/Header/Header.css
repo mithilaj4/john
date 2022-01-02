@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Shizuru&display=swap');
+
+.header img{
+    height: 80px;
+    margin-top: 20PX;
+    text-align: center;
+}
+.header{
+    text-align: center;
+}
+.header nav{
+    background-color: black;
+    line-height: 40px;
+    font-size: 20px;
+}
+nav a {
+    margin-left: 20px;
+    color: #fff;
+    text-decoration: none;
+    padding: 5px;
+    font-family: 'Shizuru', cursive;
+}
+.header nav a:hover {
+    background-color: lightgrey;
+    color: black;
+  
+}

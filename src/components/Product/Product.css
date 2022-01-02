@@ -1,0 +1,29 @@
+.product{
+    display: flex;
+    margin-left: 25px;
+    border-bottom: 1px solid lightgrey;
+    margin: 20px;
+    margin-right: 10px;
+    padding-bottom: 25px;
+}
+
+.product-img{
+    margin: 25px;
+
+}
+.product-name{
+    color: black;
+    font-weight: 500;
+    font-family: 'Shizuru', cursive;
+}
+.add-button{
+    background-color: goldenrod;
+    border: 1px solid gray;
+    padding: 5px 15px;
+    color: black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+
